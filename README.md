@@ -6,7 +6,9 @@ Over the past 10 years, I've worked on a diverse set of products that impacted m
 
 I am passionated about Indie mobile development, and working on the whole app development lifecycle: from ideation to working on user's feedback.
 
-🐶 Father of 2 Borders Collies. Dog trainer and Dog agility are my main hobbies.
+#Facts about myself:
+🇧🇷 Born and raised. 🇮🇹 citizen. 🇵🇹 currently living.
+🐶 Father of 2 Borders Collies. 🐕 Dog trainer and Dog agility are my main hobbies.
 
 📫 You can reach me at 📫
 [X (Twitter)](https://x.com/lucaslmoreton)
