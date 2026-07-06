@@ -1,6 +1,6 @@
 ## Hello world, I'm Lucas! 👋
 
-I'm a Senior Software Engineer, graduated in Computer's Engineering and specialized in  Development(certified at Apple Developer Academy 2015-2016), with background experience as Distributed Systems Specialist and Software Quality Assurance.
+I'm a Senior Software Engineer, graduated in Computer's Engineering and specialized in  Development(certified at Apple Developer Academy 2015-2016), with background experience as Distributed Systems Specialist and Software Quality Assurance Engineer.
 
 Over the past 10 years, I've worked on a diverse set of products that impacted millions of users, for different industries: Banking, Insurance, Fashion, E-Commerce, Health and others. 
 
