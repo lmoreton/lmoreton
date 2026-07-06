@@ -1,16 +1,19 @@
 ## Hello world, I'm Lucas! 👋
 
-I'm a Senior Software Engineer, graduated in Computer's Engineering and specialized in  Development(certified at Apple Developer Academy 2015-2016), with background experience as Distributed Systems Specialist and Software Quality Assurance Engineer.
+I’m a Senior Software Engineer with a degree in Computer Engineering, specialized in  Apple platform development, and certified by the Apple Developer Academy program, class of 2015–2016.
 
-Over the past 10 years, I've worked on a diverse set of products that impacted millions of users, for different industries: Banking, Insurance, Fashion, E-Commerce, Health and others. 
+Over the past 10+ years, I’ve worked on a diverse range of products used by millions of people across industries such as banking, insurance, fashion, e-commerce, healthcare, and more.
 
-I am passionated about Indie mobile development, and working on the whole app development lifecycle: from ideation to working on user's feedback.
+My background also includes experience as a Distributed Systems Specialist and Software Quality Assurance Engineer, which gave me a strong foundation in scalable systems, testing, automation, and product quality.
 
-### Facts about myself:
-🇧🇷 Born and raised. 🇮🇹 citizen. 🇵🇹 currently living.
-👩‍❤️‍💋‍👨 Happily married and we have 2x 🐶 four-legged cubs.
-🐕 Dog trainer and Dog agility are my main hobbies.
+I’m passionate about indie mobile development and enjoy working across the full app development lifecycle — from idea and architecture to implementation, release, and user feedback.
 
-📫 You can reach me at 📫
-[X (Twitter)](https://x.com/lucaslmoreton),
-[LinkedIn](https://linkedin.com/in/lmoreton).
+### A few facts about me:
+
+🇧🇷 Born and raised in Brazil
+🇮🇹 Italian citizen
+🇵🇹 Currently living in Portugal
+🐶 Proud dog dad of two
+🐕 Dog training and dog agility are some of my favorite hobbies
+
+📫 You can reach me on [X (Twitter)](https://x.com/lucaslmoreton) or [LinkedIn](https://linkedin.com/in/lmoreton).
